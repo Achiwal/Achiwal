@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello dear user, first of all, I am a software developer and designer, I am 20 years old and I think I am good and successful at my own level in this regard.
+Hello dear user, first of all, I am a Full Stack Developer, I am 20 years old and I think I am good and successful at my own level in this regard.
 
 
 ## 🌐 Socials:
